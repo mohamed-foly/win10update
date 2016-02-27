@@ -1,0 +1,10 @@
+D:\Data\vb.net Data\win10update\win10update\bin\Debug\win10update.exe.config
+D:\Data\vb.net Data\win10update\win10update\bin\Debug\win10update.exe
+D:\Data\vb.net Data\win10update\win10update\bin\Debug\win10update.pdb
+D:\Data\vb.net Data\win10update\win10update\bin\Debug\win10update.xml
+D:\Data\vb.net Data\win10update\win10update\obj\Debug\win10update.Form1.resources
+D:\Data\vb.net Data\win10update\win10update\obj\Debug\win10update.Resources.resources
+D:\Data\vb.net Data\win10update\win10update\obj\Debug\win10update.vbproj.GenerateResource.Cache
+D:\Data\vb.net Data\win10update\win10update\obj\Debug\win10update.exe
+D:\Data\vb.net Data\win10update\win10update\obj\Debug\win10update.xml
+D:\Data\vb.net Data\win10update\win10update\obj\Debug\win10update.pdb
